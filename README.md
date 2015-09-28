@@ -11,7 +11,7 @@ This repository is not the original repository for this tool. Here are some link
 
 In this repository, for RUBRIC you will find:
 * :x: The Source Code (not available)
-* :white_check_mark: [The Original Tool - RUBRIC](tbd0) (available)
+* :white_check_mark: [The Original Tool - RUBRIC](https://github.com/SoftwareEngineeringToolDemos/FSE-2013-RUBRIC/tree/master/Executables) (available)
 * :white_check_mark: [A slightly modified version of the original tool](tbd1) [Sarah Elder](https://github.com/seelder) got working (available)
 
 
