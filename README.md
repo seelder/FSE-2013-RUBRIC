@@ -7,6 +7,7 @@ This repository is not the original repository for this tool. Here are some link
 * [The Original Project Page for RUBRIC](https://sites.google.com/site/rubricnlp/)
 * [A more recent version of the project, renamed RETA, that is compatible with JDK1.8 and Gate 8.1](https://sites.google.com/site/retanlp/)
 * [A Video of the Tool](https://youtu.be/5zIn8scJgRs)
+* RUBRIC (and RETA) is a plugin to the Natural Language Processing software GATE, which can be found [here](https://gate.ac.uk)
 
 
 In this repository, for RUBRIC you will find:
