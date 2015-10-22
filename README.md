@@ -16,4 +16,4 @@ In this repository, for RUBRIC you will find:
 * :white_check_mark: [A slightly modified version of the original tool](tbd1) [Sarah Elder](https://github.com/seelder) got working (available)
 
 
-This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder),  [Shrenuj Gandhi](https://github.com/shrenujgandhi), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Chetan Arora et. al, for their help in establishing this repository. 
+This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder),  [Shrenuj Gandhi](https://github.com/shrenujgandhi), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to (Chetan Arora)[http://wwwen.uni.lu/snt/people/chetan_arora] et. al, for their help in establishing this repository. 
