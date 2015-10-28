@@ -3,7 +3,7 @@
 
 This repository is contains information related to the tool RUBRIC presented at Foundations of Software Engineering, 2013. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2491411.2494591).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Original Project Page for RUBRIC](https://sites.google.com/site/rubricnlp/)
 * [A more recent version of the project, renamed RETA, that is compatible with JDK1.8 and Gate 8.1](https://sites.google.com/site/retanlp/)
 * [A Video of the Tool](https://youtu.be/5zIn8scJgRs)
