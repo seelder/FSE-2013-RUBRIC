@@ -1,3 +1,6 @@
+#build-vm
+
+
 This directory contains the files required for Vagrant to create a Virtual Machine containing RUBRIC.
 If you already have Vagrant and rsync installed on your machine, you can download the RUBRIC_Vagrant directory, open the directory in the command prompt, and use "vagrant up" to start the machine.
 
